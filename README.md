@@ -36,7 +36,7 @@ Exploring UX design, interaction design, and digital creativity.
 
 ---
 
-##Currently Working On
+## Currently Working On
 
 - Academic web integration projects  
 - Building my personal portfolio  
