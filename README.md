@@ -45,18 +45,6 @@ Exploring UX design, interaction design, and digital creativity.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lanteqra&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanteqra&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## My Approach
 
 I don’t just want to write code.  
