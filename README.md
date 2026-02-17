@@ -1,25 +1,28 @@
 ## Hi there 👋
 
 
-<h1 align="center">Hi, I'm Luis Antequera 👋</h1>
+<h1 align="center">Hi, I'm Luis Antequera </h1>
 <h3 align="center">⚖️ Lawyer → 💻 Web Developer student → 🎨 UX/UI Explorer</h3>
 
 <p align="center">
-  based in Quebec, Canada currently reinventing myself in tech
+  Based in Quebec, Canada currently reinventing myself in tech
+</p>
+<p align="center">
+  Fluent in Spanish, professional in English and French.
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I am currently transitioning into web development and UX/UI design.  
 My background in law shaped my analytical thinking, structure, and sensitivity to social impact.  
 
 Now, I’m learning how to transform those skills into meaningful digital experiences.
 
-💡 I’m interested in building clear, accessible, and human-centered products.  
-🎯 Currently studying Web Development.  
-🎨 Exploring UX design, interaction design, and digital creativity.
+I’m interested in building clear, accessible, and human-centered products.  
+Currently studying Web Development.  
+Exploring UX design, interaction design, and digital creativity.
 
 ---
 
@@ -33,7 +36,7 @@ Now, I’m learning how to transform those skills into meaningful digital experi
 
 ---
 
-## 🚀 Currently Working On
+##Currently Working On
 
 - Academic web integration projects  
 - Building my personal portfolio  
@@ -42,7 +45,7 @@ Now, I’m learning how to transform those skills into meaningful digital experi
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lanteqra&show_icons=true&theme=tokyonight"/>
@@ -54,7 +57,7 @@ Now, I’m learning how to transform those skills into meaningful digital experi
 
 ---
 
-## 🎯 My Approach
+## My Approach
 
 I don’t just want to write code.  
 I want to design experiences.
@@ -67,4 +70,4 @@ I believe in:
 
 ---
 
-⭐ Always building. Always learning.
+⭐ Always building. Always learning. ⭐
