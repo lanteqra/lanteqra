@@ -26,7 +26,7 @@ Exploring UX design, interaction design, and digital creativity.
 
 ---
 
-## 🛠️ Technologies I’m Working With
+## Technologies I’m Working With
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
